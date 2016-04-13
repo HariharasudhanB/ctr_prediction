@@ -1,0 +1,1 @@
+sqlite3 CTR_Prediction.db < sqliteImportData_CTR_Prediction.sql
