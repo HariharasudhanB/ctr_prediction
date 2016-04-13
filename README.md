@@ -3,7 +3,9 @@ This project has the python scripts for ctr prediction
 
 Place all the files in the same folder
 
-First call the .bat from that folder as directory to create sqlite db from the train.txt and test.txt file
+Copy train.txt and test.txt to that folder
+
+First, call the .bat from that folder as directory to create sqlite db from the train.txt and test.txt file
 
 All the py scripts work from db
 
